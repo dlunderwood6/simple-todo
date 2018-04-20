@@ -1,0 +1,7 @@
+{
+    "tasks": [
+        {"todo": "task1", "status": "active"},
+        {"todo": "task2", "status": "complete"},
+        {"todo": "task3", "status": "complete"}
+    ]
+}
